@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="课程配套源码">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SanGeng_SSM_Project.zip!/" />
+      <root url="jar://$PROJECT_DIR$/SanGeng_Mybatis_Puls_Project.zip!/" />
+      <root url="jar://$PROJECT_DIR$/SGBlog.zip!/" />
+      <root url="jar://$PROJECT_DIR$/SanGeng_Mybatis_Project.zip!/" />
+      <root url="jar://$PROJECT_DIR$/SanGeng_Stream_Projectt.zip!/" />
+      <root url="jar://$PROJECT_DIR$/SanGeng_Security_Project.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

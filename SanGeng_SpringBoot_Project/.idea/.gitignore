@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../SanGeng_SpringBoot_Project\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../:\eclipseWork\课程配套源码\SanGeng_SpringBoot_Project\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
